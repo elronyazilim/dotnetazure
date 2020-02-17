@@ -1,0 +1,16 @@
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\dotnetdocker.deps.json
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\dotnetdocker.runtimeconfig.json
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\dotnetdocker.runtimeconfig.dev.json
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\dotnetdocker.dll
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\bin\Debug\netcoreapp2.1\dotnetdocker.pdb
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.csprojAssemblyReference.cache
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.RazorAssemblyInfo.cache
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.RazorAssemblyInfo.cs
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.AssemblyInfoInputs.cache
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.AssemblyInfo.cs
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.RazorTargetAssemblyInfo.cache
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.dll
+C:\Users\YAZILIM1\source\repos\dotnetdocker\dotnetdocker\obj\Debug\netcoreapp2.1\dotnetdocker.pdb
